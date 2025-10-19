@@ -1,0 +1,14 @@
+# This file lists core dependencies for building and running the project.
+
+C++17 or newer
+SFML 2.6.1    # Simple and Fast Multimedia Library
+
+# Linux (Debian/Ubuntu): 
+#   Download SFML 2.6.1 from https://www.sfml-dev.org/download/sfml/2.6.1/
+#   or use package manager if version 2.6.1 is available
+
+# macOS (Homebrew):
+#   brew install sfml
+
+# Windows:
+#   Download and install SFML 2.6.1 from https://www.sfml-dev.org/download/sfml/2.6.1/
