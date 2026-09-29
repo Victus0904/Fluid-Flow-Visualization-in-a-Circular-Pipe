@@ -1,0 +1,7 @@
+# Build output
+*.o
+*.exe
+*.out
+build/
+.vscode/
+.idea/
